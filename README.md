@@ -4,7 +4,7 @@
 
 <h3 align="center">Leveraging 10+ years of expertise in extracting insights from data | Passionate about transforming raw information into actionable solutions | Expertise in machine learning, data engineering, and analytics | Bridging the gap between data and business impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mak-h-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mak-h-ai" /> </p>
+<img align="right"> alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mak-h&label=Profile%20views&color=0e75b6&style=flat" alt="mak-h" /> </p>
 
